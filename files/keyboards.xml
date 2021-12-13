@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboards>
+    <keyboard id="0">
+        <brand>Logitech</brand>
+        <model>G413</model>
+        <color>Black</color>
+        <backlighting>Red</backlighting>
+        <specifications>
+            <specification>Length 445mm</specification>
+            <specification>Width 132mm</specification>
+            <specification>Height 34mm</specification>
+        </specifications>
+    </keyboard>
+    <keyboard id="1">
+        <brand>Logitech</brand>
+        <model>G915</model>
+        <color>Black</color>
+        <backlighting>RGB</backlighting>
+        <specifications>
+            <specification>Length 475mm</specification>
+            <specification>Width 150mm</specification>
+            <specification>Height 22mm</specification>
+        </specifications>
+    </keyboard>
+    <keyboard id="2">
+        <brand>Razer</brand>
+        <model>Blackwidow</model>
+        <color>Black</color>
+        <backlighting>Green</backlighting>
+        <specifications>
+            <specification>Length 490mm</specification>
+            <specification>Width 170mm</specification>
+            <specification>Height 30mm</specification>
+        </specifications>
+    </keyboard>
+    <keyboard id="3">
+        <brand>Razer</brand>
+        <model>Hutnsman</model>
+        <color>Mercury</color>
+        <backlighting>RGB</backlighting>
+        <specifications>
+            <specification>Length 423mm</specification>
+            <specification>Width 134mm</specification>
+            <specification>Height 28mm</specification>
+        </specifications>
+    </keyboard>
+</keyboards>
