@@ -1,0 +1,62 @@
+{
+  "brands": [
+    {
+      "brand": {
+        "name": "Logitech",
+        "keyboards": [
+          {
+            "brand": "Logitech",
+            "model": "G413",
+            "color": "Black",
+            "backlighting": "Red",
+            "specifications": [
+              "Length 445mm",
+              "Width 132mm",
+              "Height 34mm"
+            ]
+          },
+          {
+            "brand": "Logitech",
+            "model": "G915",
+            "color": "Black",
+            "backlighting": "RGB",
+            "specifications": [
+              "Length 475mm",
+              "Width 150mm",
+              "Height 22mm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "brand": {
+        "name": "Razer",
+        "keyboards": [
+          {
+            "brand": "Razer",
+            "model": "Blackwidow",
+            "color": "Black",
+            "backlighting": "Green",
+            "specifications": [
+              "Length 490mm",
+              "Width 170mm",
+              "Height 30mm"
+            ]
+          },
+          {
+            "brand": "Razer",
+            "model": "Hutnsman",
+            "color": "Mercury",
+            "backlighting": "RGB",
+            "specifications": [
+              "Length 423mm",
+              "Width 134mm",
+              "Height 28mm"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
